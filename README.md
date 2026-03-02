@@ -1,0 +1,2 @@
+# Contrastive-Learning-For-Target-Speaker-Extraction-With-Attention-Based-Fusion
+This project focuses on Target Speaker Extraction (TSE) to isolate a specific speaker’s voice from multi-speaker audio mixtures. It uses contrastive learning to enhance speaker embedding discrimination and attention-based fusion to align target features with mixture signals, improving accuracy and robustness in noisy, real-world environments.
